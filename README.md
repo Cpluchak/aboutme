@@ -1,2 +1,5 @@
-# aboutme
-My name is Cody .
+Hobbies
+-Fantasy Football
+-Sports
+-Video Games
+-Building PC's
