@@ -1,3 +1,7 @@
+
+Hi my name is Cody.
+i like fantasy football.
+
 Hobbies
 -Fantasy football
 -Lucifer
@@ -5,3 +9,4 @@ Hobbies
 -Gaming
 -Streaming
 -Building gaming PC's
+
